@@ -26,6 +26,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "fp-ts": "^2.16.5"
+    "fp-ts": "^2.16.5",
+    "ts-adt": "^2.1.2"
   }
 }
