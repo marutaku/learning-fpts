@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/base-64": "^1.0.2",
     "@typescript-eslint/eslint-plugin": "^6.4.0",
     "eslint": "^8.0.1",
     "eslint-config-prettier": "^9.1.0",
@@ -26,6 +27,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
+    "base-64": "^1.0.0",
     "fp-ts": "^2.16.5",
     "ts-adt": "^2.1.2"
   }
